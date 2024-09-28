@@ -1,4 +1,4 @@
-# Lesson 8: Arrays and Custom Libraries in C++
+# Lesson 3: Libraries in C++
 
 In this lesson, we demonstrate how to work with arrays using custom libraries in C++. The program uses two custom libraries, `MyArrayFunctionsLib` and `MyInputReaderLib`, to perform basic operations on arrays, such as filling them with random numbers or user inputs, and displaying their elements.
 
