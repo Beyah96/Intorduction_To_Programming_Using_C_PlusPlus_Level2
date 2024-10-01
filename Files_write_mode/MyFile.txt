@@ -1,0 +1,2 @@
+This is my first file manipulation on c++
+I'm trying to improve my skills in c++
